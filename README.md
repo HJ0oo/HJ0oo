@@ -3,10 +3,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:95ACFC,50:DFF6FE,100:DFF6FE&fontColor=FFFFFF&height=150&section=header)
 
 <details>
-<summary>$\huge{\rm{\color{#617AF9}contact}}$</summary>
-$\normalsize{\rm{\color{#A0B2FD}email}}$<br>
+<summary>
+
+$\huge{\rm{\color{#617AF9}contact}}$</summary>
+
+$\normalsize{\rm{\color{#A0B2FD}email}}$
+$\small{\rm{\color{#C0CDFE}ihjkong@naver.com}}$
+
 $\normalsize{\rm{\color{#A0B2FD}notion}}$<br>
+
 $\normalsize{\rm{\color{#A0B2FD}instagram}}$<br>
+
 </details>
 
 <p align="center">
