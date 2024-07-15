@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:95ACFC,50:DFF6FE,100:DFF6FE&fontColor=FFFFFF&height=200&section=header)
 
 <details>
-<summary><center>$\huge{\cal{\color{#617AF9}im hyun joo}}$</center></summary>
+<summary><center>$\huge{\cal{\color{#617AF9}IM\ im\ hyun\ joo}}$</center></summary>
 NOTION INSTAGRAM<br><br><br>
 </details>
 
