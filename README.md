@@ -1,16 +1,13 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:95ACFC,50:DFF6FE,100:DFF6FE&fontColor=FFFFFF&height=200&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:95ACFC,50:DFF6FE,100:DFF6FE&fontColor=FFFFFF&height=150&section=header)
 
 <details>
-<summary>$\huge{\rm{\color{#617AF9}im\ hyun\ joo}}$</summary>
+<summary>$\huge{\rm{\color{#617AF9}contact}}$</summary>
 $\normalsize{\rm{\color{#A0B2FD}email}}$<br>
 $\normalsize{\rm{\color{#A0B2FD}notion}}$<br>
 $\normalsize{\rm{\color{#A0B2FD}instagram}}$<br>
 </details>
-
-<br>
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJ0oo&layout=compact&show_icons=true&&hide_border=true&bg_color=DFF6FE&icon_color=ffffff&text_color=000&title_color=617AF9&count_private=true" width=51% />
