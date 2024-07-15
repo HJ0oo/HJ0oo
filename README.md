@@ -6,11 +6,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:95ACFC,50:DFF6FE,100:DFF6FE&fontColor=FFFFFF&height=200&section=header)
 
-<center><details>
+<center>
+<details>
 <summary>$\huge{\rm{\color{#5ad7b7}hello}}$</summary>
 NOTION INSTAGRAM<br><br><br>
 </details>
 </center>
+
 <br>
 
 
