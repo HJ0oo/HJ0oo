@@ -7,7 +7,10 @@
 
 $\normalsize{\rm{\color{#A0B2FD}email}}$
 
-$\small{\rm{\color{#C0CDFE}ihjkong@naver.com}}$<br>
+[ihjkong@naver.com]<br>
+
+[$\small{\rm{\color{#C0CDFE}ihjkong@naver.com}}$]
+<br>
 
 $\normalsize{\rm{\color{#A0B2FD}notion}}$<br>
 
