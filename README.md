@@ -6,10 +6,7 @@
 <summary>$\huge{\rm{\color{#617AF9}contact}}$</summary>
 
 $\normalsize{\rm{\color{#A0B2FD}email}}$
-
-ihjkong@naver.com<br>
-
-$\small{\rm{\color{#C0CDFE}ihjkong}}$
+$\small{\rm{\color{#C0CDFE}ihjkong@}}$
 $\small{\rm{\color{#C0CDFE}@}}$
 $\small{\rm{\color{#C0CDFE}naver.com}}$
 <br>
