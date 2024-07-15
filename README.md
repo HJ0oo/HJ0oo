@@ -1,17 +1,11 @@
 
 
-<p>$\huge{\rm{\color{#5ad7b7}hello}}$</p>
-<p>$\bf{\large{\color{#6580DD}hi\ hi}}$</p>
-<p>$\it{\large{\color{#DD6565}hi\ hi}}$</p>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:95ACFC,50:DFF6FE,100:DFF6FE&fontColor=FFFFFF&height=200&section=header)
 
-<center>
-<details>
-<summary>$\huge{\it{\color{#617AF9}IM\ HYUN\ JOO}}$</summary>
+<center><details>
+<summary>$\huge{\cal{\color{#617AF9}IM\ HYUN\ JOO}}$</summary>
 NOTION INSTAGRAM<br><br><br>
-</details>
-</center>
+</details></center>
 
 <br>
 
