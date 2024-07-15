@@ -8,11 +8,10 @@
 $\normalsize{\rm{\color{#A0B2FD}email}}$
 $\small{\rm{\color{#C0CDFE}ihjkong@}}$
 $\small{\rm{\color{#C0CDFE}naver.com}}$
-<br>
 
-$\normalsize{\rm{\color{#A0B2FD}notion}}$<br>
+$\normalsize{\rm{\color{#A0B2FD}notion}}$
 
-$\normalsize{\rm{\color{#A0B2FD}instagram}}$<br>
+$\normalsize{\rm{\color{#A0B2FD}instagram}}$
 
 </details>
 
