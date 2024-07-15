@@ -1,10 +1,8 @@
 ## IM HYUN JOO
 
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
-<p>$\huge{\rm{\color{#5ad7b7}큰글씨\ 로만체\ 초록색}}$</p>
-<p>$\bf{\large{\color{#6580DD}두꺼운\ 글씨체,\ 큰글씨,\ 파란색}}$</p>
-<p>$\it{\large{\color{#DD6565}이텔릭체,\ 큰글씨,\ 빨간색}}$</p>
+<p>$\huge{\rm{\color{#5ad7b7}hello}}$</p>
+<p>$\bf{\large{\color{#6580DD}hi\hi}}$</p>
+<p>$\it{\large{\color{#DD6565}hi\hi}}$</p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:95ACFC,50:DFF6FE,100:DFF6FE&fontColor=FFFFFF&height=200&section=header)
 
