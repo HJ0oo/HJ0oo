@@ -8,7 +8,7 @@
 
 <center>
 <details>
-<summary>$\huge{\rm{\color{#5ad7b7}IM HYUN JOO}}$</summary>
+<summary>$\huge{\it{\color{#617AF9}IM\ HYUN\ JOO}}$</summary>
 NOTION INSTAGRAM<br><br><br>
 </details>
 </center>
