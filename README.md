@@ -6,8 +6,8 @@
 <summary>$\huge{\rm{\color{#617AF9}contact}}$</summary>
 
 $\normalsize{\rm{\color{#A0B2FD}email}}$
-$\small{\rm{\color{#C0CDFE}ihjkong@}}$
-$\small{\rm{\color{#C0CDFE}naver.com}}$
+$\small{\rm{\color{#C0CDFE}ihjkong@naver}}$
+$\small{\rm{\color{#C0CDFE}.com}}$
 
 $\normalsize{\rm{\color{#A0B2FD}notion}}$
 
