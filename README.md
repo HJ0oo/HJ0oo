@@ -1,4 +1,4 @@
-## IM HYUN JOO
+
 
 <p>$\huge{\rm{\color{#5ad7b7}hello}}$</p>
 <p>$\bf{\large{\color{#6580DD}hi\ hi}}$</p>
@@ -8,7 +8,7 @@
 
 <center>
 <details>
-<summary>$\huge{\rm{\color{#5ad7b7}hello}}$</summary>
+<summary>$\huge{\rm{\color{#5ad7b7}IM HYUN JOO}}$</summary>
 NOTION INSTAGRAM<br><br><br>
 </details>
 </center>
